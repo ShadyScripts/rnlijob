@@ -1,6 +1,6 @@
 # qb-highwaysjob
 
-I took [qb-firefighterjob](https://github.com/qbcore-framework/qb-ambulancejob) and turned it to this to make a highways job.
+I took [qb-firefighterjob](https://github.com/qbcore-framework/qb-ambulancejob) and turned it to this to make a RNLI job.
 
 Feel free to make optimization and PRs, however it runs smoothly on my server
 
