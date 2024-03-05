@@ -1,4 +1,4 @@
-# qb-highwaysjob
+# Rnli job
 
 I took [qb-firefighterjob](https://github.com/qbcore-framework/qb-ambulancejob) and turned it to this to make a RNLI job.
 
